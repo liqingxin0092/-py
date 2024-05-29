@@ -1,0 +1,12 @@
+from turtle import *
+ht()
+fillcolor('red')
+begin_fill()
+seth(45)
+fd(200)
+circle(100,180)
+seth(135)
+circle(100,180)
+fd(200)
+end_fill()
+mainloop()
