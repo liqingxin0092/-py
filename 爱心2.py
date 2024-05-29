@@ -1,5 +1,7 @@
 from turtle import *
-ht()
+ht()       #隐藏
+title('绘制心形图')   #设置标题
+pensize(2)     #调整线的粗细
 fillcolor('red')
 begin_fill()
 seth(45)
